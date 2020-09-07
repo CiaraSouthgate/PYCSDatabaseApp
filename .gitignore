@@ -24,3 +24,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
+/.vscode/
+yarn.lock
+storage.rules
+firestore.rules
+/src/facade/AuthenticationManager.js
+/src/facade/config.js
+/src/facade/UserListManager.js
